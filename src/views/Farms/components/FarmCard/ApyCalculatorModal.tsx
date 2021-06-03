@@ -126,7 +126,7 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
         )}
       </Description>
       <Flex justifyContent="center">
-        <LinkExternal href={`https://exchange.icecreamswap.finance/#/add/${liquidityUrlPathParts}`}>
+        <LinkExternal href={`https://swap-testnet.icecreamswap.finance/#/add/${liquidityUrlPathParts}`}>
           {TranslateString(999, 'Get')} {lpLabel}
         </LinkExternal>
       </Flex>

@@ -50,7 +50,7 @@ const DetailsSection: React.FC<ExpandableSectionProps> = ({
     <Wrapper>
       <Flex justifyContent="space-between">
         <Text>{TranslateString(316, 'Stake')}:</Text>
-        <StyledLinkExternal href={`https://exchange.icecreamswap.finance/#/add/${liquidityUrlPathParts}`}>
+        <StyledLinkExternal href={`https://swap-testnet.icecreamswap.finance/#/add/${liquidityUrlPathParts}`}>
           {lpLabel}
         </StyledLinkExternal>
       </Flex>

@@ -57,7 +57,7 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'ICE',
     tokenAddresses: {
-      97: '0x4141a2741697dDEc7eB3B8fDd085c18Fe91367A1',
+      97: '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
       56: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
     },
     quoteTokenSymbol: QuoteToken.BNB,
